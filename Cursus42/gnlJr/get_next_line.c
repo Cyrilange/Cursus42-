@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jose-rig <jose-rig@student.42.fr>          +#+  +:+       +#+        */
+/*   By: csalamit <csalamit@student.42malaga.com>   #+#  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/06/11 14:21:46 by jose-rig          #+#    #+#             */
-/*   Updated: 2024/07/01 13:03:05 by jose-rig         ###   ########.fr       */
+/*   Created: 2024-06-27 13:51:51 by csalamit          #+#    #+#             */
+/*   Updated: 2024-06-27 13:51:51 by csalamit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "get_next_line.h"
 #include <stdio.h>
